@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: io69j4rca-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/io69j4rca-python
